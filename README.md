@@ -6,7 +6,7 @@
 ### You can check the deployed version here
  []: (https://chatapp-63371.web.app/)
 # Chat_App
-Chat App using React and Firebase
+Chat App using # React and # Firebase
 
 ## Here will be the prompt that will ask you to sign in with Google Account
 ![SignIn](https://github.com/Mihiryadav1/Chat_App/assets/86922582/29123642-c0c0-4161-9504-b813e48b3c2c)
