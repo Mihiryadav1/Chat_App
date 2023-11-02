@@ -3,6 +3,8 @@
 2) npm install
 3) npm run dev
 
+### You can check the deployed version here
+![Click](https://sharechats.netlify.app/)
 # Chat_App
 Chat App using React and Firebase
 
