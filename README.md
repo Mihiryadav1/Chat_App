@@ -1,3 +1,8 @@
+# Run the Project
+1) cd Chat_App
+2) npm install
+3) npm run dev
+
 # Chat_App
 Chat App using React and Firebase
 
